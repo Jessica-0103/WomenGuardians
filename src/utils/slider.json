@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Women's Self Defence Tips",
+    "price": "0",
+    "detail": "Self Defense for Women in The Modern World. Protect yourself and Learn Some Moves. Don't be a victim! Feel safe again!",
+    "image": "./c1.png"
+  },
+  {
+    "name": "Basic Self-Defense for All",
+    "price": "0",
+    "detail": "Krista Swartz's Girl Scout Gold Award Project",
+    "image": "./c3.png"
+  },
+  {
+    "name": "AWARENESS AND SELF DEFENSE LECTURE",
+    "price": "0",
+    "detail": "Learn lethal self defense techniques, and powerful awareness strategies.",
+    "image": "./c4.png"
+  },
+  {
+    "name": "Empowerment Self-Defense",
+    "price": "389",
+    "detail": "Life coach training + 21 day challenge: de-escalation, setting boundaries, safety planning & self-defense tools",
+    "image": "./c5.png"
+  },
+  {
+    "name": "Self Defense for Badass Women",
+    "price": "389",
+    "detail": "The only way to stop an attacker in their tracks, is to make them pay dearly for trying to do so in the first place.",
+    "image": "./c6.png"
+  },
+  {
+    "name": "Self Defense Mindset",
+    "price": "389",
+    "detail": "A Beginner's Guide To Self-Defense - Discover how your Brain and Awareness are your best weapons, Learn to use them here",
+    "image": "./c7.png"
+  }
+]
